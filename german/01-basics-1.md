@@ -2,17 +2,39 @@
 
 Mann: man
 
+der Mann: the man
+
 Junge: boy
 
+der Junge: the boy
+
 Frau: woman
+
+die Frau: the woman
 
 Ein Mann: a man
 
 Eine Frau, ein Mann: a woman, a man
 
+ich: I
+
+ich bin: I am
+
+du: you
+
+du bist: you are
+
+das Kind: the child
+
 Ich bin Anna.: I am Anna.
 
 Mädchen: girl
+
+er trinkt: he drinks
+
+es: it
+
+das Mädchen: the girl
 
 Ein Mann und eine Frau: a man and a woman
 
@@ -30,7 +52,13 @@ Eine Frau, ein Mädchen (n.): a woman, a girl
 
 Wasser: water
 
+das Wasser: the water
+
 Brot: bread
+
+und: and
+
+das Brot: the bread
 
 Lukas ist ein Mann und Anna ist eine Frau.: Lukas is a man and Anna is a woman.
 
