@@ -29,5 +29,3 @@ Das Mädchen: the girl
 Das Kind: the child
 
 Die Frau trinkt.: The woman drinks.
-
-Das Brot: the bread
