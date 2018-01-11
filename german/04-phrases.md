@@ -86,7 +86,7 @@ Entschuldigung, keine Ahnung!: Sorry, no idea!
 
 Ja, mir geht's gut.: Yes, I am doing well.
 
-Alles klar!: All right.
+Alles klar!: All right!
 
 Mir geht's gut.: I am fine.
 
