@@ -224,3 +224,33 @@ Sie und ich gehen.: She and I walk.
 Du schläfst.: You sleep.
 
 Es ist genug.: It is enough.
+
+Ich schreibe.: I am writing.
+
+Ich laufe nicht.: I am not walking.
+
+Sie spielen und lernen.: They are playing and learning.
+
+Sie wollen einen Hund.: They want a dog.
+
+Du schreibst.: You write.
+
+Wir schreiben.: We write.
+
+Die Maus lernt.: The mouse learns.
+
+Wir lernen.: We learn.
+
+Wir laufen.: We run.
+
+Er schreibt ein Buch.: He writes a book.
+
+Sie machen Kaffee.: They make coffee.
+
+Lernt ihr Deutsch?: Do you learn German?
+
+Er läuft.: He runs.
+
+Du laufst.: You run.
+
+Die Frau und der Mann gehen.: The woman and the man are walking.
