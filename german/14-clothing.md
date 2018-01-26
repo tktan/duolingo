@@ -99,3 +99,10 @@ Die Schuhe passen nicht.: The shoes do not fit.
 
 Die Kleidung ist schmutzig.: The clothes are dirty.
 
+Die Männer tragen Hüte.: The men are wearing hats.
+
+Frauen und Männer tragen Schmuck.: Women and men wear jewelry.
+
+Die Mädchen haben Hüte.: The girls have hats.
+
+die Taschen: the bags
