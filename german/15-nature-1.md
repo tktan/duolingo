@@ -86,7 +86,7 @@ Die Sonne ist ein Stern.: The sun is a star.
 
 Die Bäume sind groß.: The trees are big.
 
-Def Apfel fallt.: The apple falls.
+Def Apfel fällt.: The apple falls.
 
 Ein Baum.: One tree.
 
@@ -97,3 +97,5 @@ Die Natur ist schön.: Nature is beautiful.
 Die Enten leben.: The ducks are alive.
 
 Ich lebe.: I am alive.
+
+Sonne und Mond: Sun and Moon
