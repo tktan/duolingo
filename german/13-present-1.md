@@ -254,3 +254,17 @@ Er läuft.: He runs.
 Du laufst.: You run.
 
 Die Frau und der Mann gehen.: The woman and the man are walking.
+
+Wir schwimmen.: We are swimming.
+
+Er schwimmt.: He is swimming.
+
+Fische schwimmen.: Fish swim.
+
+Wir sehen den Apfel.: We see the apple.
+
+Du denkst.: You think.
+
+Ich schlafe.: I sleep.
+
+Du schläfst.: You are sleeping.
