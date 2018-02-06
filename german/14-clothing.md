@@ -85,8 +85,6 @@ Wir haben Mäntel.: We have coats.
 
 die Hüte: the hats
 
-Du hast Hosen.: You have trousers.
-
 Dieser Knopf ist neu.: This button is new.
 
 Sie haben Hemden.: They have shirts.
@@ -106,3 +104,11 @@ Frauen und Männer tragen Schmuck.: Women and men wear jewelry.
 Die Mädchen haben Hüte.: The girls have hats.
 
 die Taschen: the bags
+
+Die Mädchen tragen Kleider.: The girls are wearing dresses.
+
+Hast du Kosmetik?: Do you have cosmetics?
+
+Die Knöpfe sind rund.: The buttons are round.
+
+Die Ringe sind rund.: The rings are round.
