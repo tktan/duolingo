@@ -64,7 +64,7 @@ Das sind viele Bücher.: That's a lot of books.
 
 Viele Kinder sind klein.: Many children are short.
 
-Jede Katze mag Milch.: All cats like milk.
+Jede Katze mag Milch.: Every cat likes milk.
 
 Sie liest viel.: She reads a lot.
 
@@ -101,3 +101,13 @@ Manche Hunde laufen.: Some dogs run.
 Das sind viele Bücher.: That's a lot of books.
 
 Diese Orange ist groß.: This orange is big.
+
+Das ist viel.: That is a lot.
+
+Dies ist eine Katze.: This is a cat.
+
+Dieses Kleid ist groß.: This dress is big.
+
+Manche Jungen schreiben.: Some boys write.
+
+Dieser Mann hat ein Pferd.
