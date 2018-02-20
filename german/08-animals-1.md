@@ -92,3 +92,12 @@ er/sie/es isst | er/sie/es frisst
 wir essen | wir fressen
 ihr esst | ihr fresst
 sie/Sie essen | sie/Sie fressen
+
+Du hast eine Katze.: You have a cat.
+
+Die Katze hat hunger. Sie isst Fleisch.: Your cat is hungry. She eats
+meat.
+
+Sie hat ein Haustier.: She has a pet.
+
+Eine Biene ist ein Insekt: A bee is an insect.
